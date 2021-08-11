@@ -1,0 +1,13 @@
+// get Tracking
+{ "pkg_id" : "P001"}
+
+// get Fee
+{ "weight": 3.0 , "size": "vSmall",
+  "sender_address": "Province: TayNinh District: 1",
+  "receiver_address": "Province: LaoCai District: 1"}
+
+// SAVE PACKAGE
+{ "pkg_id" : "P001", "weight": 2.0 , "size": "vSmall",
+ "delivery_fee" : 10000 , "cod_value" : 0 ,
+ "sender_name": "An", "sender_phone_num": "123456789", "sender_address": "Province: TayNinh District: 1",
+"receiver_name": "Thao", "receiver_phone_num": "987654321", "receiver_address": "Province: LaoCai District: 1"}
